@@ -9,11 +9,6 @@ APP_TOKEN = os.environ["PUSHOVER_APP_TOKEN"]
 URL = "https://app.testudo.umd.edu/soc/search?courseId=cmsc216&sectionId=&termId=202608&_openSectionsOnly=on&creditCompare=&credits=&courseLevelFilter=ALL&instructor=&_facetoface=on&_blended=on&_online=on&courseStartCompare=&courseStartHour=&courseStartMin=&courseStartAM=&courseEndHour=&courseEndMin=&courseEndAM=&teachingCenter=ALL&_classDay1=on&_classDay2=on&_classDay3=on&_classDay4=on&_classDay5=on"
 
 TARGET_SECTIONS = {
-    "0101",
-    "0102",
-    "0103",
-    "0104",
-    "0105",
     "0201",
     "0202",
     "0203",
